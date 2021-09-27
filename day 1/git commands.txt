@@ -1,0 +1,5 @@
+git status- to check the status of repository in that folder
+git init- to intialise repository in that folder
+git add --a : to add up all the files in the staging area
+git commit -m "comment here" : to commit the changes in git repository
+git log : for all the information about the commits

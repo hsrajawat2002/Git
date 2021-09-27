@@ -1,0 +1,14 @@
+rm -rf .git : stops the tracking of git repository
+pwd : means present working directory it shows the present 
+       directory we are working in.
+ls : shows list
+git clone<space><url> folder name : it clones the repository, here folder name folder will be created
+                                    in which the repository will be cloned.
+
+
+
+
+
+
+
+

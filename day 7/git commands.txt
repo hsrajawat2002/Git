@@ -1,0 +1,10 @@
+git checkout -b name: creates a new branch 
+git checkout name : to jump into that branch
+git branch : to check the number of branches you have created
+git merge branch_name : from which content should be merged
+
+git branch -v: will show the branches and will show the last commit and the hash 
+git branch --merged: will show the branches merged
+git branch --no-merged: will show the branches not merged
+git branch -d branch_name: will delete the merged branches but will show a warning before
+                   deleting that branch if not merged

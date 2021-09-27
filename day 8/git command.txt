@@ -1,0 +1,3 @@
+git push -d origin branch_name: this will  delete the branch from github or you can say from the remote.
+git push origin name:another_name: this will create a new branch in the remote and that will be used to compare the 
+                                    the two branches.

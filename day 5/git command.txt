@@ -1,0 +1,19 @@
+git log -p : it will show all the commits in the git repository along with differences
+git log -p -n: where n is integer, then it will show only n commits with differences
+
+git log --stat: here it will  show a brief discription about that commits and changes.
+press q to exit git log
+
+git log --pretty=online/full : online will show commits in one line where 
+                              full will show full commits
+
+git log --since=2.days/weeks/year: this will show commits upto that time
+git log --pretty=format:"code here" : this will show the required info.
+   to access git format commands go to git scm format commands on google search
+git commit --amend: a new editor will open to have insertion press i
+ to end press esc then type :wq and press  enter
+git restore --staged file_name: this will unstage that file.
+git checkout -- file_name: it will bring you back to the previous commit
+git checkout -f: to get back to previous commit for all files
+
+ 

@@ -1,0 +1,14 @@
+git diff : compares staging area with present working directory.
+git diff --staged: compares commit with staged area.
+git commit -a -m "comment here" : by using this command we can skip the 
+                 staging area for commit but the files that are untracked
+                 will not be commited.
+by using git commands we can assure time saving and direct staging of files
+like:
+git rm file_name : this will delete the file name entered
+git mv old_name new_name : this will rename the file
+
+
+to stop tracking files we cannot directy add them into gitignore
+to stop tracking we must run a command
+git rm --cached file_name : this will stop tracking of files

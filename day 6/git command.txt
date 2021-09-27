@@ -1,0 +1,9 @@
+git remote: to check the repository
+git remote -v: for urls of push and fetch
+for commiting in git we use push but we have to give access first for that 
+go to google search and we type ssh keys github then follow the instructions j
+and create a ssh key in github by going in account settings and ssh keys 
+
+git push -u origin master : to push into the repository
+git config --global alias.short_name function: for creating shortcut
+git config --global alias.short_name "big function": you know what it means

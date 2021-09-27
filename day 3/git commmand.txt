@@ -1,0 +1,6 @@
+touch .gitignore : whatever files we add in this are going to be ignored.
+touch filename : to create the file
+name/ :this directory name if put in thr gitignore then all the directories 
+        with name will be ignored from git
+/name/ : if this put in gitignore then only the outer directory will be 
+          ignored
